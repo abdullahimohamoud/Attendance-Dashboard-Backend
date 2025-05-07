@@ -1,0 +1,26 @@
+[
+  {
+    "name": "TestUser",
+    "status": "present",
+    "id": "539abb83-90aa-4746-bc2b-fe38ee0ea638",
+    "timestamp": "2025-05-07T23:02:31.450337"
+  },
+  {
+    "name": "TestUser",
+    "status": "present",
+    "id": "bceddc49-6a5f-499f-99ed-3b47d55337cf",
+    "timestamp": "2025-05-07T23:03:14.013594"
+  },
+  {
+    "name": "TestUser",
+    "status": "present",
+    "id": "a383485b-cf53-4abf-905d-bf7dd6512665",
+    "timestamp": "2025-05-07T23:04:03.040709"
+  },
+  {
+    "name": "TestUser",
+    "status": "present",
+    "id": "775a2934-ae2f-47a9-a3b1-c708f837897a",
+    "timestamp": "2025-05-07T23:04:51.701540"
+  }
+]
